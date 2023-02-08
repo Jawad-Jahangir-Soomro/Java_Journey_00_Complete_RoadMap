@@ -1,4 +1,4 @@
-# Java_Journey_Repository_00
+# Java_Journey
 Explore Repository #00 for comprehensive Java Roadmap. Discover essential topics for mastering Java programming. Start your Java journey now!
 
 
@@ -8,42 +8,42 @@ Explore Repository #00 for comprehensive Java Roadmap. Discover essential topics
 This repository is a complete roadmap for learning Java, covering topics from the basics to advanced concepts such as Java Swing and Java Database Connectivity (JDBC).
 
 
-## Repository # 00: Complete Roadmap
+## 00: Complete Roadmap
 
 The complete roadmap covers all the topics that will be covered in this repository, so you can have an overview of what to expect.
 
-## Repository # 01: Introduction
+## 01: Introduction
 
 - Learn about Java and its workings.
 - Get an understanding of JVM (Java Virtual Machine), JRE (Java Runtime Environment), and JDK (Java Development Kit).
 - Instructions for downloading and setting up the Java environment.
 
-## Repository # 02: Variables, Data Types, and Naming Conventions
+## 02: Variables, Data Types, and Naming Conventions
 
 - Study the concept of variables and their use in Java.
 - Learn about the different data types (primitive and reference) in Java.
 - Get an understanding of naming conventions in Java.
 - Study escape sequences and casting in Java.
 
-## Repository # 03: Operators, Keywords, and Reading Input
+## 03: Operators, Keywords, and Reading Input
 
 - Learn about the different operators available in Java.
 - Study the use of keywords in Java.
 - Get an understanding of the Unicode system.
 - Learn how to read input in Java.
 
-## Repository # 04: If-Else Conditions, Ternary Statements, and Switch Statements
+## 04: If-Else Conditions, Ternary Statements, and Switch Statements
 
 - Study the use of if-else conditions in Java.
 - Learn about ternary statements and their use.
 - Get an understanding of if-else ladder and switch statements in Java.
 
-## Repository # 05: Loops
+## 05: Loops
 
 - Study the use of for loops in Java.
 - Learn about while loops and do-while loops.
 
-## Repository # 06: Methods
+## 06: Methods
 
 - Learn the syntax for creating methods in Java.
 - Study method parameters and their use.
@@ -51,7 +51,7 @@ The complete roadmap covers all the topics that will be covered in this reposito
 - Study method overloading and overriding.
 - Learn the difference between parameters and arguments.
 
-## Repository # 07: Arrays
+## 07: Arrays
 
 - Learn about arrays in Java and why they are used.
 - Study single-dimension and multi-dimension arrays.
@@ -59,7 +59,7 @@ The complete roadmap covers all the topics that will be covered in this reposito
 - Learn about dynamic memory allocation and input/output with arrays.
 - Study the use of arrays in functions.
 
-## Repository # 08: Object Oriented Programming (OOP)
+## 08: Object Oriented Programming (OOP)
 
 - Learn about objects and classes in Java.
 - Study the concept of constructors.
@@ -67,7 +67,7 @@ The complete roadmap covers all the topics that will be covered in this reposito
 - Study polymorphism, including method overloading and overriding.
 - Learn about encapsulation and abstraction in Java.
 
-## Repository # 09: Strings
+## 09: Strings
 
 - Study the use of strings in Java.
 - Learn about string literal creation and string pooling.
@@ -78,7 +78,7 @@ The complete roadmap covers all the topics that will be covered in this reposito
 - Learn about StringBuffer and StringBuilder in Java.
 - Study the various methods available in the String class.
 
-## Repository # 10: Exception Handling
+## 10: Exception Handling
 
 - Learn about exceptions and errors in Java.
 - Study the difference between exceptions and errors.
@@ -87,7 +87,7 @@ The complete roadmap covers all the topics that will be covered in this reposito
 - Learn about the syntax and methods for handling exceptions.
 - Get an overview of common exceptions
 
-## Repository # 11 - Multi Threading
+## 11 - Multi Threading
 
 This repository focuses on Multi Threading in Java. The topics covered in this repository are:
 
@@ -98,7 +98,7 @@ This repository focuses on Multi Threading in Java. The topics covered in this r
 - What is MultiThreading
 - Methods of MultiThreading
 
-## Repository # 12 - File Handling
+## 12 - File Handling
 
 This repository contains all about File Handling you need to Learn
 
@@ -110,7 +110,7 @@ This repository contains all about File Handling you need to Learn
 - Study the use of RandomAccessFile for random access to data within a file.
 - Practice with sample code and projects.
 
-## Repository # 13 - Collection Framework
+## 13 - Collection Framework
 
 This repository focuses on Collection Framework in Java. The topics covered in this repository are:
 
@@ -118,14 +118,14 @@ This repository focuses on Collection Framework in Java. The topics covered in t
 - What is Java Collection Framework?
 - Collection Framework Hierarchy?
 
-## Repository # 14 - Java Swing
+## 14 - Java Swing
 
 This repository focuses on Java Swing. The topics covered in this repository are:
 
 - Introduction to Java Swing
 - Importance of Java Swing
 
-## Repository # 15 - Basic Components Of Java Swing
+## 15 - Basic Components Of Java Swing
 
 This repository focuses on the basic components of Java Swing. The topics covered in this repository are:
 
@@ -135,15 +135,15 @@ This repository focuses on the basic components of Java Swing. The topics covere
 - JLabel
 - JTextfield
 
-## Repository # 16 - Layout Managers
+## 16 - Layout Managers
 
 This repository focuses on Layout Managers in Java Swing.
 
-## Repository # 17 - Event Handlers
+## 17 - Event Handlers
 
 This repository focuses on Event Handlers in Java Swing.
 
-## Repository # 18 - Advance Components
+## 18 - Advance Components
 
 This repository focuses on Advance Components in Java Swing. The topics covered in this repository are:
 
@@ -152,7 +152,7 @@ This repository focuses on Advance Components in Java Swing. The topics covered 
 - JList
 - JComboBox
 
-## Repository # 19 - Java DataBase Connectivity
+## 19 - Java DataBase Connectivity
 
 This repository focuses on Java Database Connectivity. The topics covered in this repository are:
 
