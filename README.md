@@ -18,6 +18,10 @@ The complete roadmap covers all the topics that will be covered in this reposito
 - Get an understanding of JVM (Java Virtual Machine), JRE (Java Runtime Environment), and JDK (Java Development Kit).
 - Instructions for downloading and setting up the Java environment.
 
+Link for Repository # 01 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_01_Introduction
+
 ## 02: Variables, Data Types, and Naming Conventions
 
 - Study the concept of variables and their use in Java.
