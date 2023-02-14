@@ -40,7 +40,7 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_02_Variables_DataTypes_and
 - Get an understanding of the Unicode system.
 - Learn how to read input in Java.
 
-Link for Repository # 01 is Given Below:
+Link for Repository # 03 is Given Below:
 
 https://github.com/Jawad-Jahangir-Soomro/Java_Journey_03_Operators_Keywords_and_ReadingInput
 
