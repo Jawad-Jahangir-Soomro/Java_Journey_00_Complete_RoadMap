@@ -60,6 +60,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_04_If-Else_Conditions_Tern
 - Study the use of for loops in Java.
 - Learn about while loops and do-while loops.
 
+Link for Repository # 05 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_05_Loops
+
 ## 06: Methods
 
 - Learn the syntax for creating methods in Java.
