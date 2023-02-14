@@ -31,7 +31,7 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_01_Introduction
 
 Link for Repository # 02 is Given below:
 
-https://github.com/Jawad-Jahangir-Soomro/Java_Journey_02_Variables_DataTypes_and_NamingConventions
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_02_Variables_DataTypes_and_NamingConventions.
 
 ## 03: Operators, Keywords, and Reading Input
 
