@@ -49,6 +49,7 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_03_Operators_Keywords_and_
 - Study the use of if-else conditions in Java.
 - Learn about ternary statements and their use.
 - Get an understanding of if-else ladder and switch statements in Java.
+- Difference between If-else statements and switch statements
 
 ## 05: Loops
 
