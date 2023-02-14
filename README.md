@@ -40,6 +40,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_02_Variables_DataTypes_and
 - Get an understanding of the Unicode system.
 - Learn how to read input in Java.
 
+Link for Repository # 01 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_03_Operators_Keywords_and_ReadingInput
+
 ## 04: If-Else Conditions, Ternary Statements, and Switch Statements
 
 - Study the use of if-else conditions in Java.
