@@ -29,6 +29,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_01_Introduction
 - Get an understanding of naming conventions in Java.
 - Study escape sequences and casting in Java.
 
+Link for Repository # 02 is Given below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_02_Variables_DataTypes_and_NamingConventions.
+
 ## 03: Operators, Keywords, and Reading Input
 
 - Learn about the different operators available in Java.
