@@ -84,6 +84,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_06_Methods
 - Learn about dynamic memory allocation and input/output with arrays.
 - Study the use of arrays in functions.
 
+Link for Repository # 07 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_07_Arrays
+
 ## 08: Object Oriented Programming (OOP)
 
 - Learn about objects and classes in Java.
