@@ -72,6 +72,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_05_Loops
 - Study method overloading and overriding.
 - Learn the difference between parameters and arguments.
 
+Link for Repository # 06 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_06_Methods
+
 ## 07: Arrays
 
 - Learn about arrays in Java and why they are used.
