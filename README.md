@@ -96,6 +96,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_07_Arrays
 - Study polymorphism, including method overloading and overriding.
 - Learn about encapsulation and abstraction in Java.
 
+Link for Repository # 08 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_08_Object_Oriented_Programming_OOP
+
 ## 09: Strings
 
 - Study the use of strings in Java.
