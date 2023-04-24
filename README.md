@@ -111,6 +111,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_08_Object_Oriented_Program
 - Learn about StringBuffer and StringBuilder in Java.
 - Study the various methods available in the String class.
 
+Link for Repository # 09 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_09_Strings
+
 ## 10: Exception Handling
 
 - Learn about exceptions and errors in Java.
