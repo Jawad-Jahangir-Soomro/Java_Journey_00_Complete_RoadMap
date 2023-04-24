@@ -124,6 +124,10 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_09_Strings
 - Learn about the syntax and methods for handling exceptions.
 - Get an overview of common exceptions
 
+Link for Repository # 10 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_10_Exceptional_Handling
+
 ## 11 - Multi Threading
 
 This repository focuses on Multi Threading in Java. The topics covered in this repository are:
