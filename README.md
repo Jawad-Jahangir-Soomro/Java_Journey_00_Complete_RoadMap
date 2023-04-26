@@ -155,6 +155,8 @@ This repository contains all about File Handling you need to Learn
 - Study the use of RandomAccessFile for random access to data within a file.
 - Practice with sample code and projects.
 
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_12_File_Handling
+
 ## 13 - Collection Framework
 
 This repository focuses on Collection Framework in Java. The topics covered in this repository are:
