@@ -139,6 +139,10 @@ This repository focuses on Multi Threading in Java. The topics covered in this r
 - What is MultiThreading
 - Methods of MultiThreading
 
+Link for Repository # 11 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_11_Multi-Threading
+
 ## 12 - File Handling
 
 This repository contains all about File Handling you need to Learn
