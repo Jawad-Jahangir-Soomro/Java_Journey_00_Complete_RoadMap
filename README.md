@@ -194,6 +194,8 @@ This repository focuses on the basic components of Java Swing. The topics covere
 
 Link for Repository # 15 is Given Below:
 
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_15_Basic_Components_Of_Java_Swing
+
 ## 16 - Layout Managers
 
 This repository focuses on Layout Managers in Java Swing.
