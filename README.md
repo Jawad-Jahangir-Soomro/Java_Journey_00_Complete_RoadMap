@@ -167,6 +167,8 @@ This repository focuses on Collection Framework in Java. The topics covered in t
 - What is Java Collection Framework?
 - Collection Framework Hierarchy?
 
+Link for Repository # 13 is Given Below:
+
 ## 14 - Java Swing
 
 This repository focuses on Java Swing. The topics covered in this repository are:
