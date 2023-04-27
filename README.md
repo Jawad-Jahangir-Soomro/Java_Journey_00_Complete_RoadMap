@@ -180,6 +180,8 @@ This repository focuses on Java Swing. The topics covered in this repository are
 
 Link for Repository # 14 is Given Below:
 
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_14_Java_Swing
+
 ## 15 - Basic Components Of Java Swing
 
 This repository focuses on the basic components of Java Swing. The topics covered in this repository are:
