@@ -221,6 +221,10 @@ This repository focuses on Advance Components in Java Swing. The topics covered 
 - JList
 - JComboBox
 
+Link for Repository # 18 is Given Below:
+
+https://github.com/Jawad-Jahangir-Soomro/Java_Journey_18_Advance_Components
+
 ## 19 - Java DataBase Connectivity
 
 This repository focuses on Java Database Connectivity. The topics covered in this repository are:
