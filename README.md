@@ -237,3 +237,5 @@ This repository focuses on Java Database Connectivity. The topics covered in thi
 Link for Repository # 19 is Given Below:
 
 https://github.com/Jawad-Jahangir-Soomro/Java_Journey_19_Java_DataBase_Connectivity
+<h1></h1>
+<h1 align="center">Happy Learning 😊</h1>
