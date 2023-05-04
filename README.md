@@ -200,7 +200,7 @@ https://github.com/Jawad-Jahangir-Soomro/Java_Journey_15_Basic_Components_Of_Jav
 
 This repository focuses on Layout Managers in Java Swing.
 
-Link for Repository # 16 is Given Below:
+Link for Repository # 1 is Given Below:
 
 https://github.com/Jawad-Jahangir-Soomro/Java_Journey_16_Layout_Managers
 
