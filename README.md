@@ -234,7 +234,7 @@ This repository focuses on Java Database Connectivity. The topics covered in thi
 - Learn about the use of PreparedStatement for executing SQL statements.
 - Study the use of ResultSet for retrieving and manipulating data from a database.
 
-Link for Repository # 19 is Given Below:
+Link for Repository # 19 is Given Below :
 
 https://github.com/Jawad-Jahangir-Soomro/Java_Journey_19_Java_DataBase_Connectivity
 <h1></h1>
